@@ -1,0 +1,7 @@
+<suite name="reports">
+ <test name="rep">
+  <classes>
+   <class name="Testing1.CartPage.java"></class>
+ </classes>
+ </test>
+</suite>
